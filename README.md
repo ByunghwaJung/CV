@@ -94,12 +94,19 @@
 ## 📚 Paper Reviews (Related Works)
 
 선행한 연구논문 리스트입니다.
+
 An advanced RAG system for manufacturing quality control — J.A. Heredia Álvaro, J. González Barreda, Advanced Engineering Informatics, 2024
+
 OG-RAG: Ontology-Grounded RAG For LLMs — K. Sharma, P. Kumar, Y. Li (Microsoft Research), arXiv, 2024
+
 Text-to-SQL Empowered by LLMs: A Benchmark Evaluation (DAIL-SQL) — D. Gao et al., Proc. VLDB Endow., 2023
+
 StructRAG: Boosting Knowledge Intensive Reasoning via Inference-time Hybrid Info Structurization — Z. Li et al., arXiv, 2024
+
 Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection — A. Asai et al., ICLR 2024
+
 Seq2SQL: Generating Structured Queries from NL using RL — V. Zhong, C. Xiong, R. Socher, arXiv, 2017
+
 Chat with MES: LLM-driven UI for manipulating garment manufacturing system — Z. Yuan, M. Li et al., Journal of Manufacturing Systems, 2025
 
 ## 💼 Work Experience
