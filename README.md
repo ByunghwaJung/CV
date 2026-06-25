@@ -57,7 +57,6 @@
 
 **Tech Stack:** `Python` `FastAPI` `React` `MS SQL Server` `ChromaDB` `Ollama` `OWL/RDF` `LangChain`
 
-**지원사업:** RISE Program (과제번호: S-2026-0945-000)  
 **팀 구성:** 정병화 (팀장·아키텍처), 김우주, 서경태, 복재민 (Team 11) | 지도교수: 정종필
 
 ---
@@ -91,6 +90,17 @@
 | **제조 실행 시스템에서의 역할 기반 자연어 질의 처리 방법 및 시스템** | R-2026-0542-KR-1 | 김우주 | 2026.06.10 | 제출 (출원 진행 중) |
 
 ---
+
+## 📚 Paper Reviews (Related Works)
+
+선행한 연구논문 리스트입니다.
+An advanced RAG system for manufacturing quality control — J.A. Heredia Álvaro, J. González Barreda, Advanced Engineering Informatics, 2024
+OG-RAG: Ontology-Grounded RAG For LLMs — K. Sharma, P. Kumar, Y. Li (Microsoft Research), arXiv, 2024
+Text-to-SQL Empowered by LLMs: A Benchmark Evaluation (DAIL-SQL) — D. Gao et al., Proc. VLDB Endow., 2023
+StructRAG: Boosting Knowledge Intensive Reasoning via Inference-time Hybrid Info Structurization — Z. Li et al., arXiv, 2024
+Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection — A. Asai et al., ICLR 2024
+Seq2SQL: Generating Structured Queries from NL using RL — V. Zhong, C. Xiong, R. Socher, arXiv, 2017
+Chat with MES: LLM-driven UI for manipulating garment manufacturing system — Z. Yuan, M. Li et al., Journal of Manufacturing Systems, 2025
 
 ## 💼 Work Experience
 
